@@ -1,20 +1,4 @@
-/***********************************************************************
-* Program:
-*    Project 12, Sudoku
-*    Sister Hansen, CS124
-* Author:
-*    Manahari Dahal
-* Summary:
-*    A program that allows the user to play Sudoku
-*
-*    Estimated:  7.0 hrs
-*    Actual:     12.0 hrs
-*      Working on the functions were hard. Got stuck on the editOneSquare
-*      and showPossible spent at least 3 hours fixing it. I asked my
-*      brother about the getPossibleValues function and I was able to
-*      fix it from his suggestion.
-****************************************************************************/
-
+// Importing library functions
 #include <iostream>
 #include <fstream>
 #include <iomanip>
